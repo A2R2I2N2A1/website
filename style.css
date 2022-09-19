@@ -1,0 +1,26 @@
+nav {
+    background-color: blueviolet;
+    height: 50px;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+li {
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
